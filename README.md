@@ -1,2 +1,3 @@
 # smart-brain
-Front end
+Front end files.
+Live app on https://smart-brain-files.herokuapp.com
